@@ -1,0 +1,26 @@
+{
+  "title": "CKAD Training Scenario",
+  "description": "CKAD Training",
+  "difficulty": "beginner",
+  "time": "120 minutes",
+  "details": {
+    "steps": [{
+      "title": "Playground",
+      "text": "step1.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes"
+  }
+}

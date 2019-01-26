@@ -22,6 +22,7 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "kubernetes"
+    "port": 8080,
+    "imageid": "kubernetes-cluster-running"
   }
 }

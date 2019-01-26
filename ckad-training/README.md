@@ -23,3 +23,6 @@ Interested in metrics, private repositories and environments for classroom teach
 
 ## Interactive Developer Portals
 Want to take your scenarios to the next level? Visit https://katacoda.com/embed
+
+## Reference
+- https://github.com/katacoda/scenario-examples/blob/33d11b27bc33598b4b51129bf3c67a0aa450a4aa/environments/kubernetes-cluster/index.json

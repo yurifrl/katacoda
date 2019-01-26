@@ -6,22 +6,14 @@
   "details": {
     "steps": [{
       "title": "Playground",
-      "code": "foreground.sh",
-      "text": "step1.md"
-    }],
-    "intro": {
-      "text": "intro.md",
-      "credits": ""
-    },
-    "finish": {
-      "text": "finish.md"
-    }
+      "code": "foreground.sh"
+    }]
   },
   "environment": {
     "hideintro": true,
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "kubernetes-cluster"
   }
 }
